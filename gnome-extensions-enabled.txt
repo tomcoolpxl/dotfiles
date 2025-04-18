@@ -1,0 +1,9 @@
+dash-to-dock@micxgx.gmail.com
+blur-my-shell@aunetx
+caffeine@patapon.info
+bluetooth-quick-connect@bjarosze.gmail.com
+impatience@gfxmonk.net
+space-bar@luchrioh
+status-icons@gnome-shell-extensions.gcampax.github.com
+system-monitor@gnome-shell-extensions.gcampax.github.com
+user-theme@gnome-shell-extensions.gcampax.github.com
