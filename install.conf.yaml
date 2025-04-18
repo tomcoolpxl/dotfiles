@@ -1,0 +1,10 @@
+- defaults:
+    link:
+      create: true
+      force: true
+
+- clean: ['~']
+
+- link:
+    ~/.bashrc: bashrc
+    ~/.config/starship.toml: config/starship.toml
