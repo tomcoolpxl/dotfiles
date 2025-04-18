@@ -13,6 +13,7 @@ Includes symlinks, custom configuration, and optional auto-install tools.
 ## Setup on a new machine
 
 ```bash
+cd ~
 git clone https://github.com/tomcoolpxl/dotfiles.git ~/.dotfiles
 cd ~/.dotfiles
 git submodule update --init --recursive
