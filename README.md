@@ -7,6 +7,7 @@
 
 Personal dotfiles managed using [Dotbot](https://github.com/anishathalye/dotbot).  
 Includes symlinks, custom configuration, and optional auto-install tools.
+Geared towards arch linux with GNOME.
 
 ---
 
